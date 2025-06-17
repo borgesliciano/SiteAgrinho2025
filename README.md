@@ -1,2 +1,3 @@
-# SiteAgrinho2025
-Este site terá como tema base: Tecnologia de alta precisão
+# Tecnologia de Alta precisão 
+
+Nesse site o usuario irá navegar e adquirir conhecimento sobre as máquinas agrícolas inteligentes. 
